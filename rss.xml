@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BinoFlex]]></title>
+        <description><![CDATA[BinoFlex]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 21 Oct 2015 17:29:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<article><h1>First Post</h1><p>Desc goes here</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b677c90-d0a6-4c00-a3e2-21b1f88bc3b7.jpg"></article>]]></description>
+            <link>undefinedfirst-post/index.html</link>
+            <guid isPermaLink="false">aa56b58f-184c-47d8-9035-5e53f1838f64</guid>
+            <pubDate>Wed, 21 Oct 2015 17:28:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
