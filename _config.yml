@@ -1,7 +1,7 @@
 name: BinoFlex
 favicon: null
-layout_spectrum: 0.0695143616758287
-typography_spectrum: 0.7121037056203932
+layout_spectrum: 1
+typography_spectrum: 0.73874
 title: BinoFlex
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.32242518570274115
-  lightness: 0.869252999778837
-  saturation: 0.05275763035751879
+  brandColors:
+    - '#ffffff'
+    - '#8ad039'
+    - '#0e1b47'
+    - '#038000'
+    - '#ae1f23'
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.5
   rhythmicContrast: 0.1605312628671527
 purpose: []
